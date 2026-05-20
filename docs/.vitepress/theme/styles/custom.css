@@ -1,0 +1,35 @@
+:root {
+  --vp-c-brand-1: #003399;
+  --vp-c-brand-2: #1a4dbf;
+  --vp-c-brand-3: #335fcc;
+  --vp-c-brand-soft: rgba(0, 51, 153, 0.12);
+  --vp-c-accent: #ffcc00;
+}
+
+.dark {
+  --vp-c-brand-1: #6a8cff;
+  --vp-c-brand-2: #8aa3ff;
+  --vp-c-brand-3: #a8bcff;
+  --vp-c-brand-soft: rgba(106, 140, 255, 0.16);
+}
+
+.custom-block.compliance {
+  border-color: #003399;
+  background: rgba(0, 51, 153, 0.06);
+}
+
+.dark .custom-block.compliance {
+  background: rgba(106, 140, 255, 0.12);
+}
+
+.VPHero .name {
+  background: linear-gradient(120deg, var(--vp-c-brand-1), var(--vp-c-accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+table {
+  display: table;
+  width: 100%;
+}
