@@ -81,7 +81,7 @@ Top-level items:
 | Topic | Decision |
 |---|---|
 | Video host | YouTube (unlisted or public). `<VideoEmbed>` will receive `https://www.youtube.com/embed/{ID}` URLs (privacy-enhanced mode recommended: swap to `youtube-nocookie.com` if tracking is a concern). |
-| Module outline source | Loose inspiration only from the linked Udemy course. Our 10-module sidebar structure stays. No headings copied. |
+| Module outline source | Loose inspiration only from the linked Udemy course ("Build EU GDPR data protection compliance from scratch (CIPT)"). Cross-referenced against the IAPP CIPP/E 2025-2026 Body of Knowledge and recent EDPB guidance (2024 to 2025) to produce outline v2 in `content-registry.md`. No headings copied. |
 | Audience | Multi-segment: founders & SMB owners, DPOs/legal/compliance, engineers & PMs. Each module should include at least one "for builders" call-out and one "for compliance" call-out where relevant. |
 | Geo scope | EU-wide with explicit non-EU controller lens. Highlight Art. 3(2) extraterritorial reach in Module 1 and recurring call-outs. No UK GDPR delta unless asked later. |
 | Dash rule | Strict zero em/en dashes in our prose. Direct quotes from EUR-Lex stay verbatim inside blockquotes (citation integrity beats stylistic uniformity). |
@@ -93,5 +93,5 @@ Top-level items:
 - [ ] Enable GitHub Pages in repo settings → Source: GitHub Actions (manual step, needs repo admin).
 - [ ] Add `404.md` custom page.
 - [ ] Wire homepage hero CTA once final video URLs are confirmed.
-- [ ] Draft module pages 01 → 10 against the locked outline (awaiting user's tutorial outline message).
+- [ ] Draft module pages 01 to 10 against outline v2 (now finalised; see `content-registry.md` → "Module scope details").
 - [ ] Draft `getting-started`, `about-the-series`, `glossary`, `resources`, `self-audit` meta pages.

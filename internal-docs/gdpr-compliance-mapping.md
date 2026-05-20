@@ -3,7 +3,7 @@
 > Internal tracking file. Maps each site section to its primary official source (EUR-Lex Article / Recital, EDPB guideline).
 > Every regulatory claim in user-facing pages must trace back to a row in this table before publication.
 
-Last updated: 2026-05-20
+Last updated: 2026-05-20 (added 2024 EDPB opinions and 2025 CEF reference following outline v2)
 
 ## Primary source policy
 
@@ -21,9 +21,9 @@ Last updated: 2026-05-20
 | 1. Foundations | Subject matter and objectives | Art. 1 | Rec. 1–4 | — |
 | 1. Foundations | Material scope | Art. 2 | Rec. 14–21 | — |
 | 1. Foundations | Territorial scope | Art. 3 | Rec. 22–25 | EDPB Guidelines 3/2018 on Territorial Scope |
-| 2. Definitions | Personal data, processing, controller, processor, consent, etc. | Art. 4 | Rec. 26–37 | EDPB Guidelines 07/2020 on concepts of controller and processor |
+| 2. Definitions | Personal data, processing, controller, processor, consent, etc. | Art. 4 | Rec. 26–37 | EDPB Guidelines 07/2020 on concepts of controller and processor; EDPB Opinion 22/2024 on processor / sub-processor obligations |
 | 3. Principles | Lawfulness, fairness, transparency, purpose limitation, data minimisation, accuracy, storage limitation, integrity, accountability | Art. 5 | Rec. 39 | — |
-| 4. Lawful bases | Lawfulness of processing | Art. 6 | Rec. 40–50 | EDPB Guidelines 2/2019 on Art. 6(1)(b); 8/2020 on targeting of social media users |
+| 4. Lawful bases | Lawfulness of processing | Art. 6 | Rec. 40–50 | EDPB Guidelines 2/2019 on Art. 6(1)(b); EDPB Guidelines 8/2020 on targeting of social media users; EDPB Guidelines 1/2024 on Art. 6(1)(f) legitimate interest |
 | 4. Lawful bases | Conditions for consent | Art. 7 | Rec. 32, 42, 43 | EDPB Guidelines 05/2020 on consent |
 | 4. Lawful bases | Children's consent | Art. 8 | Rec. 38 | — |
 | 4. Lawful bases | Special categories | Art. 9 | Rec. 51–56 | — |
@@ -32,7 +32,7 @@ Last updated: 2026-05-20
 | 5. Data subject rights | Information to be provided | Art. 13–14 | Rec. 60–62 | — |
 | 5. Data subject rights | Right of access | Art. 15 | Rec. 63–64 | EDPB Guidelines 01/2022 on the right of access |
 | 5. Data subject rights | Right to rectification | Art. 16 | Rec. 65 | — |
-| 5. Data subject rights | Right to erasure ("to be forgotten") | Art. 17 | Rec. 65–66 | — |
+| 5. Data subject rights | Right to erasure ("to be forgotten") | Art. 17 | Rec. 65–66 | EDPB Coordinated Enforcement Framework 2025 (focused on Art. 17) |
 | 5. Data subject rights | Right to restriction | Art. 18 | Rec. 67 | — |
 | 5. Data subject rights | Right to data portability | Art. 20 | Rec. 68 | EDPB Guidelines on the right to data portability (WP242 endorsed) |
 | 5. Data subject rights | Right to object | Art. 21 | Rec. 69–70 | — |
@@ -40,7 +40,8 @@ Last updated: 2026-05-20
 | 6. Controller & processor | Responsibility of the controller | Art. 24 | Rec. 74 | — |
 | 6. Controller & processor | Data protection by design and default | Art. 25 | Rec. 78 | EDPB Guidelines 4/2019 on Art. 25 |
 | 6. Controller & processor | Joint controllers | Art. 26 | Rec. 79 | — |
-| 6. Controller & processor | Processor obligations | Art. 28 | Rec. 81 | EDPB Guidelines 07/2020 |
+| 6. Controller & processor | Processor obligations | Art. 28 | Rec. 81 | EDPB Guidelines 07/2020; EDPB Opinion 22/2024 on processor / sub-processor obligations |
+| 6. Controller & processor | Main establishment of a controller | Art. 4(16), Art. 56 | Rec. 36 | EDPB Opinion 04/2024 on the notion of main establishment of a controller in the Union |
 | 6. Controller & processor | Records of processing activities | Art. 30 | Rec. 82 | — |
 | 7. Security & breach | Security of processing | Art. 32 | Rec. 83 | — |
 | 7. Security & breach | Notification of breach to supervisory authority | Art. 33 | Rec. 85–86 | EDPB Guidelines 9/2022 on personal data breach notification |
@@ -55,6 +56,8 @@ Last updated: 2026-05-20
 | 9. DPO & DPIA | Position and tasks of the DPO | Art. 38–39 | Rec. 97 | — |
 | 10. Penalties | General conditions for administrative fines | Art. 83 | Rec. 148–150 | EDPB Guidelines 04/2022 on calculation of fines |
 | 10. Penalties | Penalties | Art. 84 | Rec. 152 | — |
+| 10. Penalties | EDPB Coordinated Enforcement Framework 2025 | — | — | EDPB CEF 2025: right to erasure under Art. 17 |
+| Bonus (optional v2 season) | AI systems and personal data | Arts. 5, 6, 9, 22, 35 | Rec. 71 | EDPB Opinion 28/2024 on the use of personal data in AI models |
 
 ## Citation format used in user pages
 
