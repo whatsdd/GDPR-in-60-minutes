@@ -76,9 +76,22 @@ Top-level items:
 - Task lists (`- [ ]`) for self-audit checklists
 - Line-numbered code blocks (enabled globally)
 
+## Locked editorial & infra decisions (confirmed 2026-05-20)
+
+| Topic | Decision |
+|---|---|
+| Video host | YouTube (unlisted or public). `<VideoEmbed>` will receive `https://www.youtube.com/embed/{ID}` URLs (privacy-enhanced mode recommended: swap to `youtube-nocookie.com` if tracking is a concern). |
+| Module outline source | Loose inspiration only from the linked Udemy course. Our 10-module sidebar structure stays. No headings copied. |
+| Audience | Multi-segment: founders & SMB owners, DPOs/legal/compliance, engineers & PMs. Each module should include at least one "for builders" call-out and one "for compliance" call-out where relevant. |
+| Geo scope | EU-wide with explicit non-EU controller lens. Highlight Art. 3(2) extraterritorial reach in Module 1 and recurring call-outs. No UK GDPR delta unless asked later. |
+| Dash rule | Strict zero em/en dashes in our prose. Direct quotes from EUR-Lex stay verbatim inside blockquotes (citation integrity beats stylistic uniformity). |
+| Phase 2 extras | GitHub Pages deploy workflow (now added). No PDF generation, no interactive quizzes (deferred). |
+
 ## Phase 2 todo
 
-- [ ] Add `.github/workflows/deploy.yml` to publish to GitHub Pages.
+- [x] Add `.github/workflows/deploy.yml` to publish to GitHub Pages.
+- [ ] Enable GitHub Pages in repo settings → Source: GitHub Actions (manual step, needs repo admin).
 - [ ] Add `404.md` custom page.
 - [ ] Wire homepage hero CTA once final video URLs are confirmed.
-- [ ] Add `<ComplianceChecklist>` interactive component (Vue + localStorage) if quizzes are approved.
+- [ ] Draft module pages 01 → 10 against the locked outline (awaiting user's tutorial outline message).
+- [ ] Draft `getting-started`, `about-the-series`, `glossary`, `resources`, `self-audit` meta pages.

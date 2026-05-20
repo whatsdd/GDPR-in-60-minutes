@@ -40,10 +40,9 @@ Last updated: 2026-05-20
 | Resources & references | `docs/guide/resources.md` | ⚪ |
 | Compliance self-audit | `docs/guide/self-audit.md` | ⚪ |
 
-## Outstanding questions blocking content drafting
+## Outstanding inputs before drafting
 
-See the six questions asked in the chat after Phase 1 acknowledgement. Content drafting (Phase 2) cannot start without:
+Six clarifying questions have been answered (see `system-architecture.md` → "Locked editorial & infra decisions"). The only remaining input needed from the user is:
 
-1. Confirmed video hosting platform & URLs (YouTube embed IDs).
-2. Final module timestamp lock.
-3. Whether to fork the structure of the cited Udemy outline or build our own.
+1. The actual video tutorial outline (titles + timestamps + intended takeaway per segment). The user said this is coming in a follow-up message. Until then, modules stay ⚪ Planned and the timestamp column in the table above remains a placeholder.
+2. Confirmed YouTube embed IDs once the videos are recorded.
