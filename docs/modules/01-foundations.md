@@ -146,3 +146,5 @@ Keep that memo current. It is the cleanest evidence of accountability under Art.
 ::: info Next up
 Module 2 unpacks the vocabulary the rest of the regulation uses: personal data, processing, controller, processor, consent, special categories, and more.
 :::
+
+<CtaBlock />

@@ -10,3 +10,5 @@ This chapter is in the queue. Scope is locked in `internal-docs/content-registry
 :::
 
 [Back to Module 4](./04-lawful-bases) · [Forward to Module 6](./06-controller-processor)
+
+<CtaBlock />

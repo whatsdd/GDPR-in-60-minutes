@@ -3,7 +3,7 @@
 > Internal tracking file. Maps each course module / video segment to its corresponding markdown page.
 > Update this file every time a chapter is added, renamed, or its timestamps shift.
 
-Last updated: 2026-05-20 (outline v2, refined against the CIPP/E 2025-2026 Body of Knowledge and recent EDPB guidance)
+Last updated: 2026-05-20 (Module 2 drafted, guide pages added, sitewide CTA wired to GDPR by Noor)
 
 ## Status legend
 
@@ -17,7 +17,7 @@ Last updated: 2026-05-20 (outline v2, refined against the CIPP/E 2025-2026 Body 
 | # | Title | Markdown file | Video timestamp | Status |
 |---|---|---|---|---|
 | 1 | Foundations of GDPR | `docs/modules/01-foundations.md` | 00:00 – 06:00 | 🟡 |
-| 2 | Key Definitions | `docs/modules/02-definitions.md` | 06:00 – 12:00 | 🔴 |
+| 2 | Key Definitions | `docs/modules/02-definitions.md` | 06:00 – 12:00 | 🟡 |
 | 3 | Core Principles | `docs/modules/03-principles.md` | 12:00 – 18:00 | 🔴 |
 | 4 | Lawful Bases for Processing | `docs/modules/04-lawful-bases.md` | 18:00 – 24:00 | 🔴 |
 | 5 | Data Subject Rights | `docs/modules/05-data-subject-rights.md` | 24:00 – 32:00 | 🔴 |

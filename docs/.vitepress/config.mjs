@@ -97,11 +97,13 @@ export default withMermaid(defineConfig({
     },
 
     socialLinks: [
+      { icon: 'youtube', link: 'https://www.youtube.com/@GDPRbyN00R', ariaLabel: 'GDPR by Noor on YouTube' },
+      { icon: 'linkedin', link: 'https://nmaryam.com', ariaLabel: 'Noor Maryam on LinkedIn' },
       { icon: 'github', link: 'https://github.com/whatsdd/GDPR-in-60-minutes' }
     ],
 
     footer: {
-      message: 'Educational companion only. Not legal advice. Always consult qualified counsel for binding interpretations.',
+      message: 'Companion to the YouTube channel <a href="https://www.youtube.com/@GDPRbyN00R" target="_blank" rel="noopener">GDPR by Noor</a> with <a href="https://nmaryam.com" target="_blank" rel="noopener">Noor Maryam</a>. Educational content only, not legal advice.',
       copyright: 'Content based on Regulation (EU) 2016/679 as published on EUR-Lex.'
     },
 

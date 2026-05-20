@@ -10,3 +10,5 @@ This chapter is in the queue. Scope is locked in `internal-docs/content-registry
 :::
 
 [Back to Module 7](./07-security-breach) · [Forward to Module 9](./09-dpo-dpia)
+
+<CtaBlock />
