@@ -3,75 +3,80 @@ layout: home
 
 hero:
   name: "GDPR in 60 Minutes"
-  text: "Your friendly companion to the EU privacy rules."
-  tagline: A plain-language reading guide paired with a short video series. Every claim is anchored to the official EUR-Lex text and EDPB guidelines.
+  text: "Europe's privacy rules, in plain English."
+  tagline: The written sidekick to the YouTube series GDPR by Noor. Ten short chapters, every claim linked to the actual law.
   image:
     src: /hero-shield.svg
-    alt: GDPR shield illustration
+    alt: Friendly shield illustration
   actions:
     - theme: brand
-      text: Start the course
+      text: Start here
       link: /guide/getting-started
     - theme: alt
-      text: Browse modules
+      text: Jump into Module 1
       link: /modules/01-foundations
     - theme: alt
-      text: Official GDPR text
-      link: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      text: Watch on YouTube
+      link: https://www.youtube.com/@GDPRbyN00R
 
 features:
   - icon: 🎬
-    title: Watch, then read
-    details: Each chapter pairs a short video segment with a written deep-dive, so you can pick the format that fits your day.
+    title: Watch first, read second
+    details: Six-minute videos give you the gist. Written pages add the detail when you want to slow down.
   - icon: 📜
-    title: Anchored in official sources
-    details: Every rule, deadline, and penalty links straight to the relevant GDPR Article on EUR-Lex or guidance from the European Data Protection Board.
+    title: Every claim is sourced
+    details: Tap any blue EUR-Lex pill to read the actual article. No "trust me" links.
   - icon: 🧭
-    title: Built for busy teams
-    details: Short paragraphs, clear checklists, and visual flowcharts. Perfect for product managers, engineers, founders, and small business owners.
+    title: Built for busy founders and teams
+    details: Short paragraphs, real scenarios, copy-pasteable checklists. No legal jargon for its own sake.
   - icon: 🛠️
     title: Practical, not academic
-    details: Real scenarios for marketing emails, cookie banners, breach response, vendor contracts, and cross-border transfers.
-  - icon: 🌗
-    title: Dark and light modes
-    details: Toggle the theme from the top bar. Your eyes pick the mood, the regulator picks the rules.
+    details: Cookie banners, marketing emails, vendor contracts, breach responses, sending data to the US.
+  - icon: ❤️
+    title: Made by a privacy specialist
+    details: Hosted by Noor Maryam, who works with founders and small teams every day on exactly this.
   - icon: ✅
-    title: Self-audit checklists
-    details: Tick your way through compliance gaps with downloadable lists you can paste into your own tracker.
+    title: Self-audit you can finish today
+    details: Twenty questions, tick what you can, the blanks are your to-do list.
 ---
 
-## What you will learn
+## 📚 The ten chapters
 
-This companion site walks you through the General Data Protection Regulation in roughly an hour of video, plus written chapters you can scan in any order.
+Every chapter pairs a short video (six minutes-ish) with a written page that links the actual law. Tap a title to open.
 
-By the end you will be able to:
+| # | Chapter | What you walk away knowing |
+|---|---|---|
+| 1 | [Foundations](/modules/01-foundations) | What the GDPR is, who it applies to, why it reaches outside Europe. |
+| 2 | [The key terms](/modules/02-definitions) | The 20 or so words the law uses, in plain English. |
+| 3 | [Core principles](/modules/03-principles) | Seven rules of thumb every page of the law comes back to. |
+| 4 | [Real reasons to keep data](/modules/04-lawful-bases) | The six "lawful bases." Pick exactly one for each thing you do. |
+| 5 | [What people can ask you](/modules/05-data-subject-rights) | The eight rights every customer or user has. |
+| 6 | [When you hire vendors](/modules/06-controller-processor) | Who is responsible when you and a supplier both touch the same data. |
+| 7 | [Security and breaches](/modules/07-security-breach) | What "good enough" looks like, and what to do if it leaks. |
+| 8 | [Sending data abroad](/modules/08-international-transfers) | When you can move data outside Europe, and how to do it safely. |
+| 9 | [DPO and DPIA](/modules/09-dpo-dpia) | When you need a privacy officer, when you need a privacy review. |
+| 10 | [Fines and enforcement](/modules/10-penalties) | What the penalties really look like and how they are worked out. |
 
-- Explain who the GDPR applies to and when.
-- Identify a lawful basis for any new data use.
-- Run a basic data subject rights workflow.
-- Spot when a Data Protection Impact Assessment (DPIA) is required.
-- Recognise the warning signs of a reportable personal data breach.
+## 🎯 What you walk away with
+
+By the end of the series you will be able to:
+
+- Say in one sentence whether the GDPR applies to your business.
+- Pick the right reason in the law for every piece of info you keep.
+- Run a basic "what data do you have on me?" request without panic.
+- Spot when a project needs a privacy review before it ships.
+- Recognise a reportable data leak in time to do something about it.
 
 ::: tip Heads up
-This guide is educational. It is not a substitute for advice from a qualified data protection lawyer or your supervisory authority. When in doubt, ask.
+This is educational. It is not legal advice. For your specific situation, talk to Noor (link below) or to a qualified lawyer in your country.
 :::
 
-## How to use this site
+## 🙋 Who made this
 
-1. Open a module from the sidebar.
-2. Watch the embedded video clip at the top of the page.
-3. Read the matching written notes for the detail.
-4. Click any blue **EUR-Lex** badge to jump to the official article.
-5. Run through the self-audit checklist when you finish a section.
+This site is the written companion to **GDPR by Noor**, the YouTube channel hosted by [Noor Maryam](https://nmaryam.com). Noor works with founders, small teams, and growing companies on practical privacy. The videos are free. The site is free. The hour you save is yours.
 
-::: info A note on language
-We write the way we would explain things to a colleague over coffee. The rules themselves are precise, but the explanations should not feel like homework.
-:::
+<CtaBlock />
 
-## Why we built this
-
-The full GDPR text runs to 88 pages and 173 recitals. Most people do not need every line, but everyone who handles personal data should understand the spine of the law. This site gives you that spine, in plain words, with one-click access to the official source whenever you want to dig deeper.
-
-<div style="text-align:center; margin-top: 3rem; opacity: 0.7;">
-  <small>Based on Regulation (EU) 2016/679 of the European Parliament and of the Council.</small>
+<div style="text-align:center; margin-top: 2rem; opacity: 0.7;">
+  <small>Content based on Regulation (EU) 2016/679 of the European Parliament and of the Council.</small>
 </div>
