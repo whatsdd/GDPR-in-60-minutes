@@ -6,9 +6,8 @@ export const contact = {
   channelName: 'GDPR by Noor',
   youtube: 'https://www.youtube.com/@GDPRbyN00R',
   website: 'https://nmaryam.com',
-  // If a direct LinkedIn URL or Calendly link is later confirmed,
-  // replace the values below. Defaulting to the personal website is
-  // safe because the site already routes visitors to the right place.
-  linkedin: 'https://nmaryam.com',
+  linkedin: 'https://www.linkedin.com/in/nmaryam/',
+  // The "Free consultation" button. Replace with a direct booking
+  // URL (e.g. Calendly) once available. nmaryam.com is a safe hub.
   consultation: 'https://nmaryam.com'
 }

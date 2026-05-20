@@ -98,7 +98,7 @@ export default withMermaid(defineConfig({
 
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/@GDPRbyN00R', ariaLabel: 'GDPR by Noor on YouTube' },
-      { icon: 'linkedin', link: 'https://nmaryam.com', ariaLabel: 'Noor Maryam on LinkedIn' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/nmaryam/', ariaLabel: 'Noor Maryam on LinkedIn' },
       { icon: 'github', link: 'https://github.com/whatsdd/GDPR-in-60-minutes' }
     ],
 
