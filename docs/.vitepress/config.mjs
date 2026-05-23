@@ -9,6 +9,11 @@ export default withMermaid(defineConfig({
   lastUpdated: true,
   base: '/GDPR-in-60-minutes/',
 
+  // /checklists/*.xlsx are downloadable Excel templates served as
+  // static assets from docs/public/checklists/. The dead-link checker
+  // flags them because they are not .md pages; whitelist the path.
+  ignoreDeadLinks: [/^\/checklists\//],
+
   head: [
     ['link', { rel: 'icon', href: '/GDPR-in-60-minutes/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#003399' }],
@@ -52,6 +57,14 @@ export default withMermaid(defineConfig({
           { text: 'Module 10: Penalties', link: '/modules/10-penalties' }
         ]
       },
+      {
+        text: 'Playbooks',
+        items: [
+          { text: 'Playbook 1: DSAR in 30 days', link: '/playbooks/01-dsar' },
+          { text: 'Playbook 2: Breach in 72 hours', link: '/playbooks/02-breach' },
+          { text: 'Playbook 3: Vet a vendor in 30 minutes', link: '/playbooks/03-vendor-vet' }
+        ]
+      },
       { text: 'Resources', link: '/guide/resources' },
       { text: 'Glossary', link: '/guide/glossary' }
     ],
@@ -90,6 +103,25 @@ export default withMermaid(defineConfig({
           text: 'Self-Audit Checklists',
           collapsed: true,
           items: [
+            { text: 'Compliance self-audit', link: '/guide/self-audit' }
+          ]
+        }
+      ],
+      '/playbooks/': [
+        {
+          text: 'Playbooks',
+          collapsed: false,
+          items: [
+            { text: '1. Handle a DSAR in 30 days', link: '/playbooks/01-dsar' },
+            { text: '2. Respond to a breach in 72 hours', link: '/playbooks/02-breach' },
+            { text: '3. Vet a SaaS vendor in 30 minutes', link: '/playbooks/03-vendor-vet' }
+          ]
+        },
+        {
+          text: 'Back to the book',
+          collapsed: true,
+          items: [
+            { text: 'Course modules', link: '/modules/01-foundations' },
             { text: 'Compliance self-audit', link: '/guide/self-audit' }
           ]
         }
