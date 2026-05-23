@@ -57,6 +57,16 @@ Every chapter pairs a short video (six minutes-ish) with a written page that lin
 | 9 | [DPO and DPIA](/modules/09-dpo-dpia) | When you need a privacy officer, when you need a privacy review. |
 | 10 | [Fines and enforcement](/modules/10-penalties) | What the penalties really look like and how they are worked out. |
 
+## 🛠 Three Playbooks for when it gets real
+
+Practical, step-by-step runbooks for the three moments most teams ask about. Each ships with a downloadable Excel template.
+
+| Playbook | When you need it | Download |
+|---|---|---|
+| [Handle a DSAR in 30 days](/playbooks/01-dsar) | A customer just asked for all the data you hold on them. | [dsar-log.xlsx](/checklists/dsar-log.xlsx) |
+| [Respond to a breach in 72 hours](/playbooks/02-breach) | Something leaked, was lost, or got encrypted. | [breach-triage.xlsx](/checklists/breach-triage.xlsx) |
+| [Vet a SaaS vendor in 30 minutes](/playbooks/03-vendor-vet) | You are about to sign up for a new tool that will touch customer data. | [vendor-register.xlsx](/checklists/vendor-register.xlsx) |
+
 ## 🎯 What you walk away with
 
 By the end of the series you will be able to:
